@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**manu-vaillant-afk/manu-vaillant-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Belgian computer science student
+- Previously : Bachelor at Haute Ecole Robert Schuman
+- Current : Master in software engineering at UCLouvain 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💻 I'm Currently workng on</h2>
+
+- [LINFO2132](https://uclouvain.be/cours-2022-linfo2132) Languages and translators 
+- [LINFO2251](https://uclouvain.be/cours-2022-linfo2251) Software Quality Assurance
+- [LINFO2262](https://uclouvain.be/en-cours-2022-linfo2262) Machine Learning : classification and evaluation
+- [LINFO2364](https://uclouvain.be/cours-2022-linfo2364) Mining Patterns in Data 
+- [LINFO2355](https://uclouvain.be/en-cours-2022-linfo2355) Multicore programming 
+- [LINFO2335](https://uclouvain.be/cours-2022-LINFO2335.html) Programming paradigms 
+
+
+<h2>📫 Contact me:</h2>
+
+<a href="mailto:manuvaillant07@gmail.com">![manuvaillant07@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
