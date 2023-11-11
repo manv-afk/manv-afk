@@ -1,7 +1,7 @@
 ### Hey 👋
 
 I'm a Belgian computer science student
-- Previously : Bachelor at Haute Ecole Robert Schuman
+- Previously : Bachelor in IT at Haute Ecole Robert Schuman
 - Current : Master in software engineering at UCLouvain 
 
 
